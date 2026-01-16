@@ -1,4 +1,4 @@
-# K Kumar
+# K Kumar - film - producer
 
 K Kumar is an Indian film producer known for his work across Hindi, Punjabi, Tamil, Telugu, Gujarati, and Bhojpuri cinema. He has produced several commercially successful films and music videos spanning regional and mainstream entertainment markets.
 
