@@ -17,7 +17,7 @@ K Kumar is an Indian film producer known for his work across Hindi, Punjabi, Tam
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=kksrecordz-droid&label=Profile%20Views&countColor=%23263238&style=flat)
 [![Email](https://img.shields.io/badge/Mail%20To%20KKS-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kksrecordz@gmail.com)
 ### 🌐 Regional Reach
-![Hindi](https://img.shields.io/badge/-Hindi-orange) ![Punjabi](https://img.shields.io/badge/-Punjabi-blue) ![Telugu](https://img.shields.io/badge/-Telugu-green) ![Malayalam](https://img.shields.io/badge/-Malayalam-red)
+![Hindi](https://img.shields.io/badge/-Hindi-orange) ![Punjabi](https://img.shields.io/badge/-Punjabi-blue) ![Telugu](https://img.shields.io/badge/-Telugu-green) ![Tamil](https://img.shields.io/badge/-Tamil-red) ![Malayalam](https://img.shields.io/badge/-Malayalam-purple) ![Gujarati](https://img.shields.io/badge/-Gujarati-yellow) ![Bhojpuri](https://img.shields.io/badge/-Bhojpuri-brightgreen)
 ## K Kumar Studios
 K Kumar is the founder of **K Kumar Studios**, a Mumbai-based production company engaged in the development and production of films, web content, and music-driven projects within the Indian entertainment industry.
 
