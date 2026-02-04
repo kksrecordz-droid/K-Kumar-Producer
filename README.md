@@ -9,7 +9,9 @@ K Kumar is an Indian film producer known for his work across Hindi, Punjabi, Tam
 - Single Shankarum Smartphone Simranum
 - Paris Jeyaraj
 - Maaman
-
+---
+## 🔗 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/k-kumar-9b08913a6/)
 ## K Kumar Studios
 K Kumar is the founder of **K Kumar Studios**, a Mumbai-based production company engaged in the development and production of films, web content, and music-driven projects within the Indian entertainment industry.
 
