@@ -10,7 +10,7 @@ K Kumar is a prominent Indian film producer and the founder of **K Kumar Studios
 ---
 
 ### 🔗 Professional Profiles & Contact
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/k-kumar-9b08913a6/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-kumar-producer)
 [![IMDb](https://img.shields.io/badge/IMDb-Profile-f5c518?style=for-the-badge&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm12767014/)
 [![TMDB](https://img.shields.io/badge/TMDB-Profile-01b4e4?style=for-the-badge&logo=the-movie-database&logoColor=white)](https://www.themoviedb.org/person/1201326-k-kumar)
 [![Email](https://img.shields.io/badge/Mail%20To%20KKS-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kksrecordz@gmail.com)
